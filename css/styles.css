@@ -39,6 +39,7 @@ text-decoration: none;
 body {
   font-family: Roboto, sans-serif;
   color: var(--main-text-color);
+  width: 1600px;
   }
 
 .container {
@@ -62,7 +63,9 @@ font-size: 26px;
 line-height: 1.1923;
 }
 .logo2 { color: var(--seconder-btn-color)}
+
 .header-nav { }
+
 .header-nav-link {
 color: var(--third-btn-color);
 font-weight: 500;
@@ -104,7 +107,7 @@ color: var(--main-btn-color);}
     word-wrap: normal !important;
 }
 
-.hero .container {background-color: var(--seconder-bg-color); }
+.hero {background-color: var(--seconder-bg-color); }
 .hero-title { 
 color: var(--seconder-text-color);
 /* font-style: normal; */
@@ -131,6 +134,7 @@ letter-spacing: 0.06em;
 background-color: #188CE8;}
 
 .btn { }
+
 .about {
 /* background-color: var(--third-bg-color); */
 }
@@ -178,7 +182,7 @@ line-height: 1.1875;
 /* footer */
 .address {
 color: var(--seconder-text-color);
- font-style: normal; 
+font-style: normal; 
 font-size: 14px;
 line-height: 1.7143;
 }
@@ -187,7 +191,7 @@ line-height: 1.7143;
 .address.current {
 color: var(--main-btn-color);
 }
-.footer .container {
+.footer {
 background-color: var(--seconder-bg-color);
 }
 .logo3 {
