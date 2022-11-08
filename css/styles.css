@@ -193,10 +193,10 @@ background-color: #188CE8;}
 
 .btn { }
 
-.about {
+/* .about {
   padding-top: 36px;
   padding-bottom: 36px;
-}
+} */
 
 .title {  color: var(--main-h-color);
 font-size: 36px;
